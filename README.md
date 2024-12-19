@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Davidandr1
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Java, C++, and C
+- 📫 How to reach me: Andriychukdavid1@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I speak Russian and I am learning German
